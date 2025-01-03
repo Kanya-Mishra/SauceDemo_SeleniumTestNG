@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-02T23:22:47 MST" name="Suite" finished-at="2025-01-02T23:22:59 MST" duration-ms="11559">
+    <groups>
+    </groups>
+    <test started-at="2025-01-02T23:22:47 MST" name="Test" finished-at="2025-01-02T23:22:59 MST" duration-ms="11559">
+      <class name="testCases.TC005_Product4_SauceLabsTShirtRed">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC005_Product4_SauceLabsTShirtRed@62e6b5c8]" started-at="2025-01-02T23:22:56 MST" name="setup" finished-at="2025-01-02T23:22:58 MST" duration-ms="1642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logincredentails()[pri:0, instance:testCases.TC005_Product4_SauceLabsTShirtRed@62e6b5c8]" started-at="2025-01-02T23:22:58 MST" name="logincredentails" finished-at="2025-01-02T23:22:58 MST" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincredentails -->
+        <test-method signature="product4_SauceLabsTShirtRed()[pri:0, instance:testCases.TC005_Product4_SauceLabsTShirtRed@62e6b5c8]" started-at="2025-01-02T23:22:58 MST" name="product4_SauceLabsTShirtRed" finished-at="2025-01-02T23:22:58 MST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product4_SauceLabsTShirtRed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC005_Product4_SauceLabsTShirtRed@62e6b5c8]" started-at="2025-01-02T23:22:58 MST" name="tearDown" finished-at="2025-01-02T23:22:59 MST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC005_Product4_SauceLabsTShirtRed -->
+      <class name="testCases.TC004_Product3_SauceLabsBikeLight">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC004_Product3_SauceLabsBikeLight@1bb564e2]" started-at="2025-01-02T23:22:53 MST" name="setup" finished-at="2025-01-02T23:22:55 MST" duration-ms="1507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logincredentails()[pri:0, instance:testCases.TC004_Product3_SauceLabsBikeLight@1bb564e2]" started-at="2025-01-02T23:22:55 MST" name="logincredentails" finished-at="2025-01-02T23:22:55 MST" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincredentails -->
+        <test-method signature="product3_description()[pri:0, instance:testCases.TC004_Product3_SauceLabsBikeLight@1bb564e2]" started-at="2025-01-02T23:22:55 MST" name="product3_description" finished-at="2025-01-02T23:22:56 MST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product3_description -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC004_Product3_SauceLabsBikeLight@1bb564e2]" started-at="2025-01-02T23:22:56 MST" name="tearDown" finished-at="2025-01-02T23:22:56 MST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC004_Product3_SauceLabsBikeLight -->
+      <class name="testCases.TC001_loginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_loginTest@686449f9]" started-at="2025-01-02T23:22:47 MST" name="setup" finished-at="2025-01-02T23:22:49 MST" duration-ms="1751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logincredentails()[pri:0, instance:testCases.TC001_loginTest@686449f9]" started-at="2025-01-02T23:22:49 MST" name="logincredentails" finished-at="2025-01-02T23:22:49 MST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincredentails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_loginTest@686449f9]" started-at="2025-01-02T23:22:49 MST" name="tearDown" finished-at="2025-01-02T23:22:49 MST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_loginTest -->
+      <class name="testCases.TC003_Product2_SauceLabsBackpack">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC003_Product2_SauceLabsBackpack@3b7ff809]" started-at="2025-01-02T23:22:51 MST" name="setup" finished-at="2025-01-02T23:22:53 MST" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logincredentails()[pri:0, instance:testCases.TC003_Product2_SauceLabsBackpack@3b7ff809]" started-at="2025-01-02T23:22:53 MST" name="logincredentails" finished-at="2025-01-02T23:22:53 MST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincredentails -->
+        <test-method signature="product2_description()[pri:0, instance:testCases.TC003_Product2_SauceLabsBackpack@3b7ff809]" started-at="2025-01-02T23:22:53 MST" name="product2_description" finished-at="2025-01-02T23:22:53 MST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product2_description -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_Product2_SauceLabsBackpack@3b7ff809]" started-at="2025-01-02T23:22:53 MST" name="tearDown" finished-at="2025-01-02T23:22:53 MST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_Product2_SauceLabsBackpack -->
+      <class name="testCases.TC002_Product1_SauceLabsOnesie">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC002_Product1_SauceLabsOnesie@5c00384f]" started-at="2025-01-02T23:22:49 MST" name="setup" finished-at="2025-01-02T23:22:51 MST" duration-ms="1278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logincredentails()[pri:0, instance:testCases.TC002_Product1_SauceLabsOnesie@5c00384f]" started-at="2025-01-02T23:22:51 MST" name="logincredentails" finished-at="2025-01-02T23:22:51 MST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincredentails -->
+        <test-method signature="product1_description()[pri:0, instance:testCases.TC002_Product1_SauceLabsOnesie@5c00384f]" started-at="2025-01-02T23:22:51 MST" name="product1_description" finished-at="2025-01-02T23:22:51 MST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product1_description -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_Product1_SauceLabsOnesie@5c00384f]" started-at="2025-01-02T23:22:51 MST" name="tearDown" finished-at="2025-01-02T23:22:51 MST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_Product1_SauceLabsOnesie -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
