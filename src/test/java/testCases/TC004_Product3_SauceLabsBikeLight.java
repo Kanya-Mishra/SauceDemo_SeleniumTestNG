@@ -20,7 +20,7 @@ public class TC004_Product3_SauceLabsBikeLight extends TC001_loginTest {
 		
 		product3.clickProduct3link();
 		product3.clickAddtoCartProduct3();
-		product3.clickcartButton();
+//		product3.clickcartButton();
 	}
 
 }

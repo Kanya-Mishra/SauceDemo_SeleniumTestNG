@@ -21,7 +21,7 @@ public class TC003_Product2_SauceLabsBackpack extends TC001_loginTest{
 		
 			product2.clickProduct2link();
 			product2.clickAddtoCartProduct2();
-			product2.clickcartButton();
+//			product2.clickcartButton();
 	}
 
 }

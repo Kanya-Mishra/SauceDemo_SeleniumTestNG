@@ -8,6 +8,7 @@
       <class name="testCases.TC003_Product2_SauceLabsBackpack"/>
       <class name="testCases.TC004_Product3_SauceLabsBikeLight"/>
       <class name="testCases.TC005_Product4_SauceLabsTShirtRed"/>
+      <class name="testCases.TC006_ProductsInCart"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

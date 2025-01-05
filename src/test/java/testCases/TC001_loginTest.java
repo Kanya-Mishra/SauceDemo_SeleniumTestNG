@@ -1,8 +1,8 @@
 /*
-This TestNG Program is to verify if the Login test using Page Object Model and valid Username and password 
+This TestNG Program is to verify if the Login test using Page Object Model and valid User name and password 
 works in general for "www.saucedemo.com".
-In TestNG Test-frameework, The parent class of loginTest.java class is testBaselogin.java of package 'testBase' and
-Test case calls the loginPageObject class which internally calls its parent class basePageObject of 'Page Object' Package. 
+In TestNG Test-frameework, The parent class of loginTest.java class, is testBaselogin.java of package 'testBase' and
+Test case (loginTest.java) calls the loginPageObject class which internally calls its parent class basePageObject of 'Page Object' Package. 
 */
 package testCases;
 

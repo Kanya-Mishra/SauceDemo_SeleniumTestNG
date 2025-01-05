@@ -21,7 +21,7 @@ public class TC005_Product4_SauceLabsTShirtRed extends TC001_loginTest{
 		product4.clickProduct4link();
 		System.out.println("We are clicking the Product4 Link");
 		product4.clickAddtoCartProduct4();
-		product4.clickcartButton();
+//		product4.clickcartButton();
 		System.out.println("We are in Add to Cart Product4");
 	}
 }

@@ -20,6 +20,6 @@ public class TC002_Product1_SauceLabsOnesie extends TC001_loginTest{
 	
 		product1.clickProduct1link();
 		product1.clickAddtoCartProduct1();
-		product1.clickcartButton();
+//		product1.clickcartButton();
 	}
 }
